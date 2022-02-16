@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-772-compound-semiconductor-devices-spring-2003/33a10b224528de087abb02da2950dc91_Project3_DavidNewv2.pdf
+file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/33a10b224528de087abb02da2950dc91_Project3_DavidNewv2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Project3_DavidNewv2.pdf
 uid: 33a10b22-4528-de08-7abb-02da2950dc91

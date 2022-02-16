@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c7691730-79b5-f624-f460-944798734256
 ---
@@ -116,10 +119,10 @@ Garcia, J. Ch. "Potential Prospects of CBE Technology Compared to MBE as Product
 Fitzgerald, E. A. "Dislocation in Strained-layer Epitaxy: Theory, Experiment, and Applications." _Materials Science Reports_ 7 (1991): 87-142.  
 A good overview of the topic.
 
-Chyi, Jen-Inn, Jia-Lin Shieh, Chia-Song Wu, Ray-Ming Lin. Jen-Wei Pan, Yi-Jen Chan, and Chun-Hong Lin. "Characteristics of In0.3Ga0.7As/In0.29Al0.71As Heterostructures Grown on GaAs using InAlAs Buffers." _Jpn J Appl Phys_ 33 (1994): L1574-L1576.  
+Chyi, Jen-Inn, Jia-Lin Shieh, Chia-Song Wu, Ray-Ming Lin. Jen-Wei Pan, Yi-Jen Chan, and Chun-Hong Lin. "Characteristics of In{{< sub "0.3" >}}Ga{{< sub "0.7" >}}As/In{{< sub "0.29" >}}Al{{< sub "0.71" >}}As Heterostructures Grown on GaAs using InAlAs Buffers." _Jpn J Appl Phys_ 33 (1994): L1574-L1576.  
 An example of step grading.
 
-Zaknoune, M., Y. Cordier, S. Bollaert, D. Ferre, D. Theron, and Y. Crosnier. "0.1µm High Performance Metamorphic In0.32Al0.68As/In0.33Ga0.67As HEMT on GaAs Using Inverse Step InAlAs Buffer." _Electronics Lett_ 35 (1999): 1670-1671.  
+Zaknoune, M., Y. Cordier, S. Bollaert, D. Ferre, D. Theron, and Y. Crosnier. "0.1µm High Performance Metamorphic In{{< sub "0.32" >}}Al{{< sub "0.68" >}}As/In{{< sub "0.33" >}}Ga{{< sub "0.67" >}}As HEMT on GaAs Using Inverse Step InAlAs Buffer." _Electronics Lett_ 35 (1999): 1670-1671.  
 An example of linear grading.
 
 {{< anchor "7" >}}{{< /anchor >}}Group-III Nitrides
@@ -160,7 +163,7 @@ Delage, S. L. "Heterojunction Bipolar Transistors for Millimeter Waves Applicati
 
 Pedrotti, K., K. Runge, S. Beccue, R. Pierson, A. Price, D. Wu, R. Yu, P. Zampardi, and K. C. Wang. "High-speed HBT Technologies for Optical Communication." In _High-Speed Semiconductor Lasers for Communication._ Edited by N. S. Kwong, and R. Nagarajan. _Proceedings of SPIE_ 3018 (1997), SPIE, Bellingham, WA. pp. 198-209, TA1700.H54.
 
-Hurkx, G. A. M. "The Relevance of fT and fmax for the Speed of a Bipolar CE Amplifier Stage." _IEEE Trans Electron Dev_ 44, no. 197. pp. 775-781.
+Hurkx, G. A. M. "The Relevance of f{{< sub "T" >}} and f{{< sub "max" >}} for the Speed of a Bipolar CE Amplifier Stage." _IEEE Trans Electron Dev_ 44, no. 197. pp. 775-781.
 
 Ashburn, P. "Materials and Technology Issues for SiGe Heterojunction Bipolar Transistors." _Materials Science in Semiconductor Processing_ 4 (2001): 521-527.  
 A fairly current overview of Si HBTs.
@@ -204,9 +207,9 @@ Luque, A., A. Martf. "Increasing the Efficiency of Ideal Solar Cells by Photon I
 
 Adachi, S. "Model Dielectric Constants of GaP, GaAs, SaSb, InP, InAs, InSb." _Physical Review B_ 35 (1987): 7454-7463.
 
-———. "Optical Properties of In1-xGaxAsyP1-y Alloys." _Physical Review B_ 39 (1989): 12612-12621.
+———. "Optical Properties of In{{< sub "1-x" >}}Ga{{< sub "x" >}}As{{< sub "y" >}}P{{< sub "1-y" >}} Alloys." _Physical Review B_ 39 (1989): 12612-12621.
 
-———. "Optical Dispersion Relations for GaP, GaAs, SaSb, InP, InAs, InSb, AlxGa1-xAs, and In1-xGaxAsyP1-y." _J Appl Phys_ 66 (1989): 6030-6040.
+———. "Optical Dispersion Relations for GaP, GaAs, SaSb, InP, InAs, InSb, Al{{< sub "x" >}}Ga{{< sub "1-x" >}}As, and In{{< sub "1-x" >}}Ga{{< sub "x" >}}As{{< sub "y" >}}P{{< sub "1-y." >}}" _J Appl Phys_ 66 (1989): 6030-6040.
 
 Linnik, M., and A. Christou. "Calculations of Optical Properties for Quanternary III-V Semiconductor Alloys in the Transparent Region and Above (0.2 - 4.0 eV)." _Physica B_ 318 (2002): 140-161.
 

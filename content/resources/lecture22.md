@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-772-compound-semiconductor-devices-spring-2003/1fb4166eea79aa0e9590c064f390f7de_lecture22.pdf
+file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/1fb4166eea79aa0e9590c064f390f7de_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
 uid: 1fb4166e-ea79-aa0e-9590-c064f390f7de

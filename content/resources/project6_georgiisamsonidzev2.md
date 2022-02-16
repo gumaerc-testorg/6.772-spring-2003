@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-772-compound-semiconductor-devices-spring-2003/9f8a8c838970a5507f3635259b3786a2_Project6_GeorgiiSamsonidzev2.pdf
+file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/9f8a8c838970a5507f3635259b3786a2_Project6_GeorgiiSamsonidzev2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Project6_GeorgiiSamsonidzev2.pdf
 uid: 9f8a8c83-8970-a550-7f36-35259b3786a2

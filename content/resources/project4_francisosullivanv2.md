@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-772-compound-semiconductor-devices-spring-2003/4ba402e3b4bf83b0292bca471e3ad259_Project4_FrancisOSullivanv2.pdf
+file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/4ba402e3b4bf83b0292bca471e3ad259_Project4_FrancisOSullivanv2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Project4_FrancisOSullivanv2.pdf
 uid: 4ba402e3-b4bf-83b0-292b-ca471e3ad259

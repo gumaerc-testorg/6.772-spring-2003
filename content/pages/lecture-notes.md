@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e7559502-39ab-9967-4a94-0145a1adb63f
 ---
@@ -24,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-**Compound Semiconductors**: The families (III-V's, II-VI's, IV-VI's, IV-IV's), alloys, Eg vs a; band structures (E vs k; Γ, L, X minima; direct vs. indirect gaps); crystal lattices, electrical properties, optical properties; trends in properties and the periodic table. The useful compounds. ([PDF]({{< baseurl >}}/resources/lecture1v2))
+**Compound Semiconductors**: The families (III-V's, II-VI's, IV-VI's, IV-IV's), alloys, E{{< sub "g" >}} vs a; band structures (E vs k; Γ, L, X minima; direct vs. indirect gaps); crystal lattices, electrical properties, optical properties; trends in properties and the periodic table. The useful compounds. ([PDF]({{< baseurl >}}/resources/lecture1v2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +47,7 @@ White Board ([PDF]({{< baseurl >}}/resources/lec2_whiteboard))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-**Heterostructures**: E-x Profiles: ΔEc, ΔEv, Ec(x), Ev(x); no(x), po(x); modulation doping. Conduction parallel to heterojunction; mobility in semiconductors and carrier scattering mechanisms. ([PDF]({{< baseurl >}}/resources/lecture3))  
+**Heterostructures**: E-x Profiles: ΔE{{< sub "c" >}}, ΔE{{< sub "v" >}}, E{{< sub "c" >}}(x), E{{< sub "v" >}}(x); n{{< sub "o" >}}(x), p{{< sub "o" >}}(x); modulation doping. Conduction parallel to heterojunction; mobility in semiconductors and carrier scattering mechanisms. ([PDF]({{< baseurl >}}/resources/lecture3))  
   
 White Board ([PDF]({{< baseurl >}}/resources/lec3_whiteboard))
 {{< tdclose >}}
