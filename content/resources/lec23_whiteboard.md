@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e7559502-39ab-9967-4a94-0145a1adb63f
 resourcetype: Document
 title: lec23_whiteboard.pdf
 uid: db3aa01e-b7e7-9458-ba0d-5ed20c8e766d

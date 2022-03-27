@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e7559502-39ab-9967-4a94-0145a1adb63f
 resourcetype: Other
 title: lec4_bandprof_hj.xls
 uid: 72ca625b-07e2-4c97-720e-7dfc3ed44333
