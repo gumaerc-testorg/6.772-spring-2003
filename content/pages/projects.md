@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -54,14 +55,14 @@ Sample Student Presentations
 
 Note: Some of the illustrative figures within these presentations are absent due to copyright restrictions.
 
-_Conducting Polymeric Materials as they Pertain to Supercapacitors_, by David A. New ([PDF]({{< baseurl >}}/resources/project3_davidnewv2))
+_Conducting Polymeric Materials as they Pertain to Supercapacitors_, by David A. New ({{% resource_link 33a10b22-4528-de08-7abb-02da2950dc91 "PDF" %}})
 
-_Compound Semiconductor Based Micro-Thermophotovoltaic Power Generation Technologies_, by Francis M. O'Sullivan ([PDF]({{< baseurl >}}/resources/project4_francisosullivanv2)) Courtesy of Francis O'Sullivan.
+_Compound Semiconductor Based Micro-Thermophotovoltaic Power Generation Technologies_, by Francis M. O'Sullivan ({{% resource_link 4ba402e3-b4bf-83b0-292b-ca471e3ad259 "PDF" %}}) Courtesy of Francis O'Sullivan.
 
-_Auger Recombination in A{{< sup "III" >}}B{{< sup "V" >}} Compound Semiconductors: Non-radiative Losses in Quantum Wells and Superlattices_, by Georgii Samsonidze ([PDF]({{< baseurl >}}/resources/project6_georgiisamsonidzev2)) Courtesy of Georgii Samsonidze.
+_Auger Recombination in A{{< sup "III" >}}B{{< sup "V" >}} Compound Semiconductors: Non-radiative Losses in Quantum Wells and Superlattices_, by Georgii Samsonidze ({{% resource_link 9f8a8c83-8970-a550-7f36-35259b3786a2 "PDF" %}}) Courtesy of Georgii Samsonidze.
 
-_Recent Developments in HEMT Cryogenic Low-noise Amplifiers_, by Janice C. Lee ([PDF]({{< baseurl >}}/resources/project8_janiceleev2)) Courtesy of Janice Lee.
+_Recent Developments in HEMT Cryogenic Low-noise Amplifiers_, by Janice C. Lee ({{% resource_link 960eaf2b-92c5-c89e-a1de-b40d4642ff74 "PDF" %}}) Courtesy of Janice Lee.
 
-_Energy Flow in Semiconductor Devices and its Applications for Semiconductor Laser Diodes_, by Ronggui Yang ([PDF]({{< baseurl >}}/resources/project14_rongguiyangv2)) Courtesy of Ronggui Yang.
+_Energy Flow in Semiconductor Devices and its Applications for Semiconductor Laser Diodes_, by Ronggui Yang ({{% resource_link 9b80dc52-5bee-ade9-9588-108b65c86957 "PDF" %}}) Courtesy of Ronggui Yang.
 
-_The Use of Strain in Silicon Germanium Heterostructure MOSFET Technology_, by Stuart Laval ([PDF]({{< baseurl >}}/resources/project15_stuartlavalv2)) Courtesy of Stuart Laval.
+_The Use of Strain in Silicon Germanium Heterostructure MOSFET Technology_, by Stuart Laval ({{% resource_link bb3933ef-96fb-8247-7440-fbdc5f89f95b "PDF" %}}) Courtesy of Stuart Laval.

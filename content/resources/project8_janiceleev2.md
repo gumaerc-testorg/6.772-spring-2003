@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/960eaf2b92c5c89ea1deb40d4642ff74_Project8_JaniceLeev2.pdf
+file: /courses/6-772-compound-semiconductor-devices-spring-2003/960eaf2b92c5c89ea1deb40d4642ff74_Project8_JaniceLeev2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

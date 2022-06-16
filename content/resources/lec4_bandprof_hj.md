@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/72ca625b07e24c97720e7dfc3ed44333_lec4_bandprof_hj.xls
+file: /courses/6-772-compound-semiconductor-devices-spring-2003/72ca625b07e24c97720e7dfc3ed44333_lec4_bandprof_hj.xls
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Notes

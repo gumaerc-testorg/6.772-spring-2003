@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-772-compound-semiconductor-devices-spring-2003/ffa1a46d881e1d39397bdf650deea121_ps2soln02.pdf
+file: /courses/6-772-compound-semiconductor-devices-spring-2003/ffa1a46d881e1d39397bdf650deea121_ps2soln02.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
