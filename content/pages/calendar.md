@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8b7d79be-9133-2d32-9491-15afd39c4518
 ---
@@ -25,7 +28,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-**Compound Semiconductors**: The families (III-V's, II-VI's, IV-VI's, IV-IV's), alloys, Eg vs a; band structures (E vs k; Γ, L, X minima; direct vs. indirect gaps); crystal lattices, electrical properties, optical properties; trends in properties and the periodic table. The useful compounds.
+**Compound Semiconductors**: The families (III-V's, II-VI's, IV-VI's, IV-IV's), alloys, E{{< sub "g" >}} vs a; band structures (E vs k; Γ, L, X minima; direct vs. indirect gaps); crystal lattices, electrical properties, optical properties; trends in properties and the periodic table. The useful compounds.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -49,7 +52,7 @@ KEY DATES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-**Heterostructures**: E-x Profiles: ΔEc, ΔEv, Ec(x), Ev(x); no(x), po(x); modulation doping. Conduction parallel to heterojunction; mobility in semiconductors and carrier scattering mechanisms.
+**Heterostructures**: E-x Profiles: ΔE{{< sub "c" >}}, ΔE{{< sub "v" >}}, E{{< sub "c" >}}(x), E{{< sub "v" >}}(x); n{{< sub "o" >}}(x), p{{< sub "o" >}}(x); modulation doping. Conduction parallel to heterojunction; mobility in semiconductors and carrier scattering mechanisms.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 1 Out
