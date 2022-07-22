@@ -6,6 +6,7 @@ file: /courses/6-772-compound-semiconductor-devices-spring-2003/df166f6d0e68986b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture14_WhiteBoard.pdf
 uid: df166f6d-0e68-986b-d41e-404e5c3f642e
 ---
 Heterojunction Bipolar Transistors. Lecture notes captured from electronic white board.
-

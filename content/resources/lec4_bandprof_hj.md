@@ -5,6 +5,7 @@ file: /courses/6-772-compound-semiconductor-devices-spring-2003/72ca625b07e24c97
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

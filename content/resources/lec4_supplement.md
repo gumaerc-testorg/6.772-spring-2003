@@ -5,6 +5,7 @@ file: /courses/6-772-compound-semiconductor-devices-spring-2003/f28cc4ae7325640e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec4_supplement.pdf
 uid: f28cc4ae-7325-640e-457b-5e14b2d5fa19
 ---
 Notes to support Lecture 4.
-

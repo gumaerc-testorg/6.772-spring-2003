@@ -5,6 +5,7 @@ file: /courses/6-772-compound-semiconductor-devices-spring-2003/acc9a07541ad924e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec16_whiteboard.pdf
 uid: acc9a075-41ad-924e-a33b-86246d045f78
 ---
 Lecture notes captured from electronic white board.
-

@@ -5,6 +5,7 @@ file: /courses/6-772-compound-semiconductor-devices-spring-2003/3bfb5b8bf8231ba7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec18_whiteboard.pdf
 uid: 3bfb5b8b-f823-1ba7-0e44-c0f85ff3efa2
 ---
 Lecture notes captured from electronic white board.
-
