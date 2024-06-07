@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-772-compound-semiconductor-devices-spring-2003/4d9d298eafa44c9daad1b57d9bda90a5_lec8_insert3.pdf
+file_size: 3555989
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
