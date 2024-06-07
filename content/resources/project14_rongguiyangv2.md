@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-772-compound-semiconductor-devices-spring-2003/9b80dc525beeade99588108b65c86957_Project14_RongguiYangv2.pdf
+file_size: 219982
 file_type: application/pdf
 learning_resource_types:
 - Projects

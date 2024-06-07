@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-772-compound-semiconductor-devices-spring-2003/f28eb20918aaf89bbccbb4deac6d1159_Project10_KeyanZangv2.pdf
+file_size: 255314
 file_type: application/pdf
 learning_resource_types:
 - Projects
