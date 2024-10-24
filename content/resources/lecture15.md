@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-772-compound-semiconductor-devices-spring-2003/0c4333cc569bbf51fc7e236993bd8415_Lecture15.pdf
+file: /ol-ocw-studio-app/courses/6-772-compound-semiconductor-devices-spring-2003/0c4333cc569bbf51fc7e236993bd8415_Lecture15.pdf
 file_size: 198662
 file_type: application/pdf
 learning_resource_types:
