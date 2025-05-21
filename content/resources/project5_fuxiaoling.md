@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-772-compound-semiconductor-devices-spring-2003/5dd894cd842ce3ea4d4aca0767b421c1_Project5_FuXiaoling.pdf
+file: /courses/6-772-compound-semiconductor-devices-spring-2003/5dd894cd842ce3ea4d4aca0767b421c1_Project5_FuXiaoling.pdf
 file_size: 219448
 file_type: application/pdf
 learning_resource_types:
