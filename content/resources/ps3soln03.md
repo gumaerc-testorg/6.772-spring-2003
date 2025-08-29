@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for Problem Set 3.
-file: /courses/6-772-compound-semiconductor-devices-spring-2003/ae75d8695d30381df02c2bf3d515ea8d_ps3soln03.pdf
+file: /ol-ocw-studio-app/courses/6-772-compound-semiconductor-devices-spring-2003/ae75d8695d30381df02c2bf3d515ea8d_ps3soln03.pdf
 file_size: 383424
 file_type: application/pdf
 learning_resource_types:
