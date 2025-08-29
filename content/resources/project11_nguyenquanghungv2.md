@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-772-compound-semiconductor-devices-spring-2003/3d582fdbe6851a0e34b71290259b4eb6_Project11_NguyenQuangHungv2.pdf
+file: /ol-ocw-studio-app/courses/6-772-compound-semiconductor-devices-spring-2003/3d582fdbe6851a0e34b71290259b4eb6_Project11_NguyenQuangHungv2.pdf
 file_size: 57836
 file_type: application/pdf
 learning_resource_types:
