@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes captured from electronic white board.
-file: /courses/6-772-compound-semiconductor-devices-spring-2003/c89c65139307a6a04ab95e362b978f7a_lec17_whiteboard.pdf
+file: /ol-ocw-studio-app/courses/6-772-compound-semiconductor-devices-spring-2003/c89c65139307a6a04ab95e362b978f7a_lec17_whiteboard.pdf
 file_size: 1840047
 file_type: application/pdf
 learning_resource_types:
